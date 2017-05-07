@@ -1,0 +1,1 @@
+In this lesson, we’ll retrieve and tweet data from Google Spreadsheets.
